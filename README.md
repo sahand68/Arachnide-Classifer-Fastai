@@ -1,1 +1,1 @@
-Arachnide Classifer
+Classiefies species of spider, Tarantula, and Scorpion
